@@ -117,7 +117,7 @@ export default function Auth({ isPatient, handleSwitch }) {
             </Button>
           </Box>
         </Box>
-        <Copyright sx={{ mt: 8, mb: 4 }} text={"Hospital Management System"} />
+        <Copyright sx={{ mt: 8, mb: 4 }} text={"HealthHub"} />
       </Container>
     </ThemeProvider>
   );

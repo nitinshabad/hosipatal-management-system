@@ -14,7 +14,7 @@ export default function About() {
   return (
     <div className="about">
       <h1>welcome to the</h1>
-      <h1>hospital management system</h1>
+      <h1>Health Hub</h1>
 
       <h3>Opening Hours</h3>
       <table>

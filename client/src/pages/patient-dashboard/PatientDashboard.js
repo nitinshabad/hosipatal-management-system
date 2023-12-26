@@ -103,7 +103,7 @@ function DashboardContent(props) {
               {option === "/view-appointment" && <AppointmentList />}
               {option === "/medical-record" && <MedicalRecord />}
             </Grid>
-            <Copyright sx={{ pt: 4 }} text={"Hospital Management System"} />
+            <Copyright sx={{ pt: 4 }} text={"Health Hub"} />
           </Container>
         </Box>
       </Box>

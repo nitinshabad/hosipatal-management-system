@@ -22,7 +22,7 @@ export default function Navbar() {
         <div className="logo">
           <Link to="/">
             <img src={logo} alt="" />
-            <span>HMS</span>
+            <span>HEALTH HUB</span>
           </Link>
         </div>
         <nav className="navbar">
