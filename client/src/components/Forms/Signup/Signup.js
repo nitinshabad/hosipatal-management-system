@@ -196,7 +196,6 @@ export default function Signup() {
             </Grid>
           </Box>
         </Box>
-        <Copyright sx={{ mt: 5 }} text={"HealthHub"} />
       </Container>
     </ThemeProvider>
   );

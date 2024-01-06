@@ -12,7 +12,7 @@ export default function Copyright(props) {
       {"Copyright © "}
       <Link
         color="secondary.main"
-        href="https://github.com/nitinshabad/hosipatal-management-system"
+        href=""
         target="_blank"
       >
         {props.text}
